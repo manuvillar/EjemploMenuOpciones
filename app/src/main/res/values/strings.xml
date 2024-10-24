@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo Menu Opciones</string>
+    <string name="txt_boton">Botón</string>
+    <string name="txt_TextView">Texto de prueba</string>
+</resources>
